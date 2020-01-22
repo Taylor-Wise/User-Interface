@@ -64,3 +64,135 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+body {
+	width: 80%;
+	/* border: 2px solid black; */
+	margin: auto;
+}
+
+nav{
+	width: 100%;
+	margin: auto;
+}
+
+.navigation a {
+	margin: 3%;
+}
+
+.logo{
+	padding-left: 8%;
+}
+
+header{
+	width: 100%;
+	font-size: 90px;
+	margin: auto;
+	/* border:2px solid black; */
+}
+
+div h1{
+		text-transform: uppercase;
+		text-align: center;
+		padding: 5%;
+		margin: 1% 5%;
+		display: inline-block;
+		/* border: 1px solid purple; */
+	}
+
+button{
+	padding: 1% 6% 1% 6%;
+	border: 1px solid black;
+	margin: 0%;
+}
+
+.header-left{
+	box-sizing: border-box;
+	/* border:2px solid hotpink; */
+	text-align: center;
+	display: inline-block;
+	padding-top: 5%;
+}
+
+
+.headerimg {
+		width:45;
+		padding-top: 4%;
+		padding-bottom: 5%;
+		margin:1%;
+		/* border: 2px solid purple; */
+		display: inline-block;
+		text-align: center;
+		vertical-align: top;
+
+	} 
+
+.box-1{
+	/* border: 2px solid red; */
+	margin: 1%;
+}
+
+.features{
+	/* border: 2px solid black; */
+	width: 46%;
+	margin: 1%;
+	display: inline-block;
+
+}
+
+.about{
+	/* border: 2px solid black; */
+	width: 46%;
+	margin: 1%;
+	display: inline-block;
+}
+
+.box-2{
+	/* border: 2px solid purple; */
+	margin: 1%;
+}
+
+.services{
+	/* border: 2px solid black; */
+	width: 31%;
+	margin: 1%;
+	display:inline-block;
+}
+
+.product{
+	/* border: 2px solid black; */
+	width: 31%;
+	margin: 1%;
+	display: inline-block;
+
+}
+
+.vision{
+	/* border: 2px solid black; */
+	width: 31%;
+	margin: 1%;
+	display: inline-block;
+}
+
+
+
+.middle-img{
+	width: 100%;
+	margin: auto;
+
+}
+
+h2{
+	font-size: 18px;
+}
+
+address{
+	line-height: 30px;
+	margin: 2%;
+}
+
+footer{
+	padding:5%;
+	text-align: center;
+}
